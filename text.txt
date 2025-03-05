@@ -1,2 +1,16 @@
 npm create-react-app "app name"
 npm start
+
+
+
+Prime
+Odd Even
+Circle
+Triangle
+Ractangle
+Addition
+subtraction
+Multiplication
+Division
+Emi
+converter d to r 
